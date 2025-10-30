@@ -10,7 +10,7 @@ By merging simplicity with power, Streamlit bridges the gap between **machine le
 Not long ago, sharing a machine learning model meant hours of front-end coding, backend APIs, and complex DevOps configurations.  
 Many brilliant models stayed locked inside Jupyter notebooks because deployment was too complicated for non-engineers.
 
-Then came **Streamlit** — an open-source framework that made AI **interactive, visual, and deployable** in minutes using pure Python.
+Then came **Streamlit**, an open-source framework that made AI **interactive, visual, and deployable** in minutes using pure Python.
 
 Today, Streamlit is one of the most widely adopted tools in **data science**, **machine learning education**, and **AI product prototyping** — used by professionals, researchers, and startups worldwide.
 
@@ -18,7 +18,7 @@ Today, Streamlit is one of the most widely adopted tools in **data science**, **
 
 ## What is Streamlit?
 
-**Streamlit** is a Python-based framework designed to convert data scripts and ML models into full-fledged **web applications** — instantly.  
+**Streamlit** is a Python-based framework designed to convert data scripts and ML models into full-fledged **web applications**, instantly.  
 It provides a simple, declarative way to define UI components directly in Python code, without needing HTML, CSS, or JavaScript.
 
 ### Example:
