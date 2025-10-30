@@ -12,7 +12,7 @@ Many brilliant models stayed locked inside Jupyter notebooks because deployment 
 
 Then came **Streamlit**, an open-source framework that made AI **interactive, visual, and deployable** in minutes using pure Python.
 
-Today, Streamlit is one of the most widely adopted tools in **data science**, **machine learning education**, and **AI product prototyping** — used by professionals, researchers, and startups worldwide.
+Today, Streamlit is one of the most widely adopted tools in **data science**, **machine learning education**, and **AI product prototyping**, used by professionals, researchers, and startups worldwide.
 
 ---
 
@@ -37,7 +37,7 @@ Within seconds, this script becomes a fully functional, interactive web app acce
 
 ## Why Streamlit Matters
 
-Streamlit isn’t just about creating dashboards — it’s about **making AI approachable**.  
+Streamlit isn’t just about creating dashboards, it’s about **making AI approachable**.  
 It enables:
 - **Data Scientists** to share work visually.  
 - **Educators** to demonstrate ML concepts interactively.  
@@ -57,7 +57,7 @@ It enables:
 
 ## How It Works
 
-Streamlit operates using a **script rerun model** — meaning every user interaction (like a button click or text input) triggers a fresh run of your Python script.  
+Streamlit operates using a **script rerun model**, meaning every user interaction (like a button click or text input) triggers a fresh run of your Python script.  
 This ensures:
 - The app state always reflects the latest user input.  
 - Variables are recalculated dynamically.  
@@ -135,7 +135,7 @@ After Streamlit:
 - Anyone can test live models instantly.  
 - Feedback loops become immediate and actionable.
 
-It’s a cultural shift — making data science *visible, testable, and understandable*.
+It’s a cultural shift, making data science *visible, testable, and understandable*.
 
 ---
 
@@ -153,7 +153,7 @@ Its simplicity removes the friction between ideation and application.
 
 ## Final Thoughts
 
-Streamlit isn’t just a framework — it’s a **gateway to accessibility** in the world of AI.  
+Streamlit isn’t just a framework, it’s a **gateway to accessibility** in the world of AI.  
 It has empowered thousands of developers to turn models into usable products, making machine learning interactive, explainable, and enjoyable.  
 
 By combining **Python, interactivity, and design**, Streamlit transforms the way we communicate data, one line of code at a time.
